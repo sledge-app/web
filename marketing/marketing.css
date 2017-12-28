@@ -25,14 +25,15 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 70vh;
+    height: 60vh;
 	padding: 10vh;
     color: #eee;
-    font-size: 20px;
+    font-size: 25px;
     text-shadow: 1px 1px 1px #000, -1px -1px 1px #999;
 }
 
 .ads_section a {
+    font-size: 18px;
     color: #eee;
 }
 
