@@ -6,12 +6,15 @@ body {
 html {
 	font-size: 100%;
 	font-family: system-ui;
+    background-color: rgb(165, 165, 165);
 }
 
 h1 {
-	color: rgb(34, 131, 246);
+	color: rgb(19, 72, 135);
 	text-align: center;
 	font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 body {
@@ -25,7 +28,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 60vh;
+    height: 70vh;
 	padding: 10vh;
     color: #eee;
     font-size: 25px;
@@ -33,8 +36,8 @@ body {
 }
 
 .ads_section a {
-    font-size: 18px;
     color: #eee;
+    font-size: 18px;
 }
 
 .links_section {
