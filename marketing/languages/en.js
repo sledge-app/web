@@ -3,7 +3,7 @@ window.loc = {
   'goodAfter': 'Good afternoon !',
   'noon1': 'Enjoy your meal !',
   'noon2': 'Hello, you are not hungry ?',
-  'tea': 'Hello, tea time !',
+  'tea': 'Hello, it is tea time !',
   'goodMorn1': 'Good morning ! Time for a coffee ?',
   'goodMorn2': 'Good morning! How are you?',
   'goodEve1': 'Good evenning ! Don\'t forget to take a rest !',

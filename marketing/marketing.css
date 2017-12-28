@@ -11,5 +11,43 @@ html {
 h1 {
 	color: rgb(34, 131, 246);
 	text-align: center;
-	font-size: 25px;
+	font-size: 18px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.ads_section {
+    background-image: url(./images/tv.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 70vh;
+	padding: 10vh;
+    color: #eee;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px #000, -1px -1px 1px #999;
+}
+
+.ads_section a {
+    color: #eee;
+}
+
+.links_section {
+	flex: 1;
+}
+
+.links_section ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    color: #999;
+    line-height: 1.5;
+}
+
+.links_section ul a {
+    color: #4a4a4a;
 }
