@@ -10,7 +10,7 @@ html {
 }
 
 h1 {
-	color: rgb(22, 84, 158);
+	color: rgb(251, 247, 255);
 	text-align: center;
 	font-size: 18px;
     padding-top: 20px;
@@ -30,14 +30,14 @@ body {
     background-position: center;
     height: 50vh;
 	padding: 10vh;
-    color: #eee;
+    color: #fff;
     font-size: 25px;
     text-shadow: 1px 1px 1px #000, -1px -1px 1px #999;
 }
 
 .ads_section a {
     font-size: 18px;
-    color: #eee;
+    color: #fff;
 }
 
 .links_section {
