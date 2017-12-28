@@ -10,4 +10,6 @@ html {
 
 h1 {
 	color: rgb(34, 131, 246);
+	text-align: center;
+	font-size: 25px;
 }
