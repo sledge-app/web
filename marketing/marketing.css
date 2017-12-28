@@ -10,7 +10,7 @@ html {
 }
 
 h1 {
-	color: rgb(19, 72, 135);
+	color: rgb(24, 91, 171);
 	text-align: center;
 	font-size: 18px;
     padding-top: 20px;
@@ -28,7 +28,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 70vh;
+    height: 50vh;
 	padding: 10vh;
     color: #eee;
     font-size: 25px;
@@ -36,8 +36,8 @@ body {
 }
 
 .ads_section a {
-    color: #eee;
     font-size: 18px;
+    color: #eee;
 }
 
 .links_section {
