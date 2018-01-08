@@ -10,7 +10,7 @@ html {
 }
 
 h1 {
-	color: var(--default-blue-text-color);
+	color: rgb(34, 131, 246);
 	text-align: center;
 	font-size: 18px;
     padding: 10px 20px;
@@ -49,6 +49,7 @@ body {
     text-align: center;
     color: #999;
     line-height: 1.5;
+    font-size: 13px;
 }
 
 .links_section ul a {
