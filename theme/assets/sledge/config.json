@@ -1,0 +1,144 @@
+{
+  "version": "1.0",
+  "foundation-palette": {
+    "primary": {
+      "value": "#1779ba",
+      "label": {
+        "fr": "Primaire",
+        "en": "Primary"
+      }
+    },
+    "secondary": {
+      "value": "#767676",
+      "label": {
+        "fr": "Secondaire",
+        "en": "Secondary"
+      }
+    },
+    "success": {
+      "value": "#3adb76",
+      "label": {
+        "fr": "Succès",
+        "en": "Success"
+      }
+    },
+    "warning": {
+      "value": "#ffae00",
+      "label": {
+        "fr": "Information",
+        "en": "Warning"
+      }
+    },
+    "alert": {
+      "value": "#cc4b37",
+      "label": {
+        "fr": "Alerte",
+        "en": "Alert"
+      }
+    }
+  },
+  "foundation-color": {
+    "$light-gray": "#e6e6e6",
+    "$medium-gray": "#cacaca",
+    "$dark-gray": "#8a8a8a",
+    "$black": "#0a0a0a",
+    "$white": "#fefefe",
+    "$body-background": "$white",
+    "$body-font-color": "$black"
+  },
+  "pattern": {
+    "weather": "sd-back-1",
+    "sports": "sd-back-2",
+    "seigaiha": "sd-back-3",
+    "sakura": "sd-back-4",
+    "circles": "sd-back-28",
+    "arab_tile": "sd-back-29",
+    "brickwall": "sd-back-30",
+    "cheap_diagonal_fabric": "sd-back-31",
+    "circles-light": "sd-back-32",
+    "crisp_paper_ruffles": "sd-back-33",
+    "curls": "sd-back-34",
+    "dark-triangles": "sd-back-35",
+    "denim": "sd-back-36",
+    "doodles": "sd-back-37",
+    "dust_scratches": "sd-back-38",
+    "escheresque_ste": "sd-back-39",
+    "food": "sd-back-40",
+    "footer_lodyas": "sd-back-41",
+    "gaming-pattern": "sd-back-42",
+    "giftly": "sd-back-43",
+    "halftone-yellow": "sd-back-44",
+    "hip-square": "sd-back-45",
+    "intersection": "sd-back-46",
+    "large_leather": "sd-back-47",
+    "mooning": "sd-back-48",
+    "organic-tiles": "sd-back-49",
+    "paisley": "sd-back-50",
+    "project_papper": "sd-back-51",
+    "purty_wood": "sd-back-52",
+    "tileable_wood_texture": "sd-back-53",
+    "wood_pattern": "sd-back-54",
+    "tree_bark": "sd-back-55",
+    "upfeathers": "sd-back-56",
+    "restaurant": "sd-back-57",
+    "restaurant_icons": "sd-back-58",
+    "school": "sd-back-59",
+    "spiration_dark": "sd-back-60",
+    "spiration_light": "sd-back-61",
+    "subtle_stripes": "sd-back-62",
+    "vintage-concrete": "sd-back-63",
+    "xv": "sd-back-64",
+    "zig_zag_wool": "sd-back-65"
+  },
+  "bgimage": {
+    "beach": "sd-back-7",
+    "clouds": "sd-back-8",
+    "coffee1": "sd-back-10",
+    "desert": "sd-back-11",
+    "lake": "sd-back-13",
+    "meadow": "sd-back-14",
+    "season": "sd-back-16",
+    "tea": "sd-back-19",
+    "tulip": "sd-back-22",
+    "waffles": "sd-back-23",
+    "water": "sd-back-24",
+    "wintry": "sd-back-27"
+  },
+  "fullColorList": [
+    "#1779ba",
+
+    "#767676",
+    "#3adb76",
+    "#ffae00",
+    "#cc4b37",
+    
+    "#e6e6e6",
+    "#cacaca",
+    "#8a8a8a",
+    "#0a0a0a",
+    "#fefefe",
+
+    "#ABC4D5",
+    "#4A8CB7",
+    "#055E97",
+    "#024773",
+
+    "#282FC5",
+    "#3B4093",
+    "#0D1380",
+    "#5B61E2",
+    "#7F84E2",
+
+    "#0EC56D",
+    "#2D9462",
+    "#048045",
+    "#44E296",
+    "#6EE2AA",
+    
+    "#FF9612",
+    "#BF843A",
+    "#A65F06",
+    "#FFB04D",
+    "#FFC57C"
+  ]
+}
