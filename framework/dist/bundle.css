@@ -630,8 +630,8 @@ div.sg-central-block-content {
 }.sg_text {
   display: flex;
   align-items: center;
-  padding-left: env(safe-area-inset-left);
-  padding-right: env(safe-area-inset-right);
+  padding-left: max(0.9375rem, env(safe-area-inset-left));
+  padding-right: max(0.9375rem, env(safe-area-inset-right));
 }
 
 div.sg_text_cont {
@@ -763,8 +763,8 @@ div.sg_text_columns {
 }
 
 /* min-width 1025px, large screens */.sg_orbit {
-  padding-left: env(safe-area-inset-left);
-  padding-right: env(safe-area-inset-right);
+  padding-left: max(0.9375rem, env(safe-area-inset-left));
+  padding-right: max(0.9375rem, env(safe-area-inset-right));
 }
 
 .orbit-slide div {
@@ -868,8 +868,8 @@ div.sg-map-main div.sg-map-sub {
 }.sg_footer-social {
   font-size: 140%;
   padding: 17px;
-  padding-left: env(safe-area-inset-left);
-  padding-right: env(safe-area-inset-right);
+  padding-left: max(0.9375rem, env(safe-area-inset-left));
+  padding-right: max(0.9375rem, env(safe-area-inset-right));
 }
 
 .sg_footer-social.sg-fss-medium i {
@@ -880,8 +880,8 @@ div.sg-map-main div.sg-map-sub {
   font-size: 4rem;
 }.sg_image {
   text-align: center;
-  padding-left: env(safe-area-inset-left);
-  padding-right: env(safe-area-inset-right);
+  padding-left: max(0.9375rem, env(safe-area-inset-left));
+  padding-right: max(0.9375rem, env(safe-area-inset-right));
 }
 
 .sg_image img {
@@ -1201,7 +1201,7 @@ div.sg-fmark-section-txt {
 .sg_buttons .sg_buttonset {
   line-height: 40px;
 }.sg_video-link {
-  padding-left: env(safe-area-inset-left);
-  padding-right: env(safe-area-inset-right);
+  padding-left: max(0.9375rem, env(safe-area-inset-left));
+  padding-right: max(0.9375rem, env(safe-area-inset-right));
 }
 /*# sourceMappingURL=bundle.css.map*/

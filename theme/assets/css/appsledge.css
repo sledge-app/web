@@ -1041,7 +1041,7 @@ input:checked + label > .sd-f-wrapper .switch-inactive { display: none; }
 .sd-f-wrapper .top-bar.sg-menu-back-dark li { filter: brightness(140%); }
 .sd-f-wrapper .top-bar.sg-menu-back-dark strong { color: rgb(221, 221, 221); }
 .sd-f-wrapper .top-bar-title { display: flex; flex-direction: row; justify-content: flex-start; align-items: center; }
-.sd-f-wrapper .top-bar-title .sg-logo { height: 30px; width: 50px; float: left; margin: 0px !important; }
+.sd-f-wrapper .top-bar-title .sg-logo { height: 30px; width: 50px; float: left; margin: 0px 0px 0px 10px !important; }
 .sd-f-wrapper .top-bar-title strong { margin-left: 10px; }
 .sd-f-wrapper .sg-logo-menu.sg-logo.sg-large { height: 50px; width: 100px; }
 .sd-f-wrapper .sg-logo-menu.sg-logo.sg-small { height: 20px; width: 30px; }
