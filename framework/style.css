@@ -70,3 +70,8 @@ html.is-reveal-open {
 body.is-reveal-open {
   overflow: hidden;
 }
+
+.reveal.full {
+  -webkit-overflow-scrolling: touch;
+  top: 0 !important;
+}
