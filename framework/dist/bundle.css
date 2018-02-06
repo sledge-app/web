@@ -60,6 +60,16 @@ body {
 
 .callout p {
   margin: 0;
+}
+
+/* fix reveal on ios */
+
+html.is-reveal-open {
+  overflow: inherit;
+}
+
+body.is-reveal-open {
+  overflow: hidden;
 }.sg_feature {
   display: flex;
   flex-direction: row;
