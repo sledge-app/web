@@ -28,7 +28,7 @@ h1 {
 }
 
 .ads_section {
-    background-image: url(./images/tv.png);
+    background-image: url(./images/slide-2578283_1280.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -63,4 +63,37 @@ h1 {
 .links_section ul a {
     color: #4a4a4a;
     text-decoration: none;
+}
+
+
+.sg_tw {
+    background-image: url(images/icons8-twitter_filled.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30%;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #fff;
+    border: 0;
+}
+
+.sg_fb {
+    background-image: url(images/icons8-facebook_filled.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30%;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #fff;
+    border: 0;
+}
+
+.sg_social{
+    display: flex;
+    flex-direction: row ;
+    height: 40px;
+    width: 100%;
+    justify-content: center;
 }
