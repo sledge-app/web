@@ -70,6 +70,11 @@ document.querySelector('h1').innerText = partMessage
 document.addEventListener('click', e => {
   if (e.target.nodeName === 'A') {
     e.preventDefault()
+    e.stopPropagation()
     window.native.openLink(e.target.href)
+  }
+
+  if (e.target.nodeName === 'BUTTON') {
+    window.native.openLink(e.target.dataset.link)
   }
 })
