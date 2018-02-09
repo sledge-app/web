@@ -66,3 +66,5 @@ switch (part) {
 }
 
 document.querySelector('h1').innerText = partMessage
+
+console.info(window.native)
