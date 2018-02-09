@@ -67,4 +67,9 @@ switch (part) {
 
 document.querySelector('h1').innerText = partMessage
 
-console.info(window.native)
+document.addEventListener('click', e => {
+  if (e.target.nodeName === 'A') {
+    e.preventDefault()
+    window.native.openLink(e.target.href)
+  }
+})
