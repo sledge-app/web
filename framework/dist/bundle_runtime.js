@@ -488,7 +488,8 @@ window.$sledge.equalizerSingleRow = function (row) {
 
 function equalizerRow(row) {
   var cols = row.querySelectorAll('.columns');
-  $(row).find('.columns').height('auto');
+  var $row = $(row);
+  $row.find('.columns').height('auto');
   var toAdd = [];
   var toRm = [];
   var fullSize = 0;[].forEach.call(cols, function (col) {
@@ -510,8 +511,7 @@ function equalizerRow(row) {
   }
   if (toRm.length !== 0) {
     toRm.forEach(function (elem) {
-      //elem.height = 'auto'
-      elem.removeAttribute('data-equalize-rwatch');
+      $(elem).removeAttr('data-equalizer-watch');
     });
   }
 }

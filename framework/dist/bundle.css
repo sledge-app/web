@@ -227,7 +227,8 @@ body.is-reveal-open {
   overflow: hidden;
 }
 
-div.sg-central-block-content {
+div.sg-central-block-content,
+.sd-f-wrapper div.sg-central-block-content {
   width: 50%;
   max-width: 75rem;
   padding: 2%;
@@ -252,16 +253,20 @@ div.sg-central-block-content {
 .sg-central-block-content a,
 .sg-central-block-content .button {
   margin: 0 1rem 0 0 !important;
+  background-size: contain;
+  background-position: center;
+}
+
+.sg-central-block-content button:last-of-type,
+.sg-central-block-content a:last-of-type,
+.sg-central-block-content .button:last-of-type {
+  margin: 0 0 0 0 !important;
 }
 
 .sg-central-block-content button,
 .sg-central-block-content a {
   font-size: 12px;
   margin-top: 8px;
-}
-
-.sg-central-block-content button {
-  margin: 0 1rem 0 0;
 }
 
 .sg-rounded .sg-central-block-content {
@@ -1208,7 +1213,7 @@ div.sg-fmark-section-txt {
   margin: 0 0 10px 0 !important;
 }
 
-.sg_buttons .sg_buttonset.sg_vertical a::last-of-type,
+.sg_buttons .sg_buttonset.sg_vertical a:last-of-type,
 .sg_buttons .sg_buttonset.sg_vertical button:last-of-type {
   margin: 0 0 0 0 !important;
 }
