@@ -51,6 +51,10 @@ h1 {
     margin: 0;
 }
 
+.ads_section.second p {
+    font-size: 16px;
+}
+
 .ads_section a {
     font-size: 18px;
     color:rgb(34, 131, 246);
