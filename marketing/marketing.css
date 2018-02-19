@@ -33,11 +33,21 @@ h1 {
     background-repeat: no-repeat;
     background-position: center;
     height: 50vh;
-	padding: 10vw;
+    padding: 0 10vw 5vw 10vw;
     color:rgb(34, 131, 246);
     font-weight: bold;
     font-size: 25px;
     text-shadow: 1px 1px 1px #eee, -1px -1px 1px #fff;
+}
+
+.ads_section.second {
+    background: none;
+    height: auto;
+    padding: 0 10vw 0 10vw;
+}
+
+.ads_section.second p {
+    margin: 0;
 }
 
 .ads_section a {
