@@ -1191,6 +1191,7 @@ div.sg-mark-section-txt p {
 div.sg-fmark-section-txt {
   z-index: 1;
   padding: 10vh 20vw !important;
+  width: 100%;
 }@media screen and (max-width: 40em) {
   div.sg-fmark-section-txt {
     padding: 10vh 2vw !important;
