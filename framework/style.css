@@ -75,3 +75,7 @@ body.is-reveal-open {
   -webkit-overflow-scrolling: touch;
   top: 0 !important;
 }
+
+div.sg_txt p {
+  margin: 0;
+}

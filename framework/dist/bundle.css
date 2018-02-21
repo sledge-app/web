@@ -75,6 +75,10 @@ body.is-reveal-open {
 .reveal.full {
   -webkit-overflow-scrolling: touch;
   top: 0 !important;
+}
+
+div.sg_txt p {
+  margin: 0;
 }.sg_feature {
   display: flex;
   flex-direction: row;
@@ -662,6 +666,10 @@ div.sg_text_cont {
 
 div.sg_text_columns {
   column-gap: 20px;
+}
+
+div.sg_text_cont p {
+  margin: 0;
 }.sg-link-card {
   color: #fefefe !important;
   display: block;
@@ -1149,6 +1157,10 @@ div.sg-mark-section-img {
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+div.sg-mark-section-txt p {
+  margin: 0;
 }@media screen and (max-width: 40em) {
   .sg-mark-section-wrapper,
   .sg-mark-section-wrapper.sg-position-right {
