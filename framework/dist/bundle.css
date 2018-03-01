@@ -1236,5 +1236,66 @@ div.sg-fmark-section-txt {
 }.sg_video-link {
   padding-left: max(0.9375rem, env(safe-area-inset-left));
   padding-right: max(0.9375rem, env(safe-area-inset-right));
+}.sl-sp-audio-cont {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  height: auto;
+}
+
+.sl-sp-audio-cont.sl-audio-radius {
+  border-radius: 5px;
+}
+
+.sl-sp-audio-cont button.sl-audio-play {
+  margin: 0;
+  width: 40px;
+}
+
+.sl-sp-audio-cont label {
+  margin-left: 10px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  flex: 1;
+}
+
+.sl-audio-wrapper {
+  visibility: hidden;
+  position: absolute;
+}
+
+.sl-sp-audio-cont .button {
+  margin: 0 5px 0 0 !important;
+}.sl-aa-audio-cont {
+  background-color: #eee;
+}
+
+.sl-aa-audio-cont label {
+  width: 100%;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.sl-aa-audio-img {
+  height: 200px;
+  /*adap*/
+  background-color: #999;
+}
+
+.sl-aa-audio-ctrl {
+  background-color: #ccc;
+  text-align: center;
+}
+
+.sl-aa-audio-list {
+  display: none;
+}
+
+.sl-aa-audio-buttons {
+  text-align: center;
+}
+
+.sl-aa-audio-ctrl button.button {
+  margin-bottom: 0;
 }
 /*# sourceMappingURL=bundle.css.map*/
