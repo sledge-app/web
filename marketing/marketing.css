@@ -47,6 +47,23 @@ h1 {
     font-size: 16px;
 }
 
+.ads_section.promo {
+    background-image: url(./images/promo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 90% center;
+    height: auto;
+    padding: 10px 10vw 10px 10vw;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.ads_section.promo p {
+    margin: 0;
+    color: rgb(231, 0, 0);
+}
+
 .ads_section.second p {
     margin: 0;
 }
