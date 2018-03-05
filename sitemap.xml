@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        <url>
+        <loc>http://sled-app.io/index.html</loc>
+        <xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/index.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/index.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/index.html</loc>
+              <priority>1</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/index.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/index.html" />
+<xhtml:link rel="alternate" hreflang="x-default" href="http://sled-app.io/index.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/index.html</loc>
+              <priority>1</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/index.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/index.html" />
+<xhtml:link rel="alternate" hreflang="x-default" href="http://sled-app.io/index.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/terms.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/terms.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/terms.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/terms.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/terms.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/terms.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/SledPlus.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/SledPlus.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/SledPlus.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/SledPlus.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/SledPlus.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/SledPlus.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/sledgeplus_components.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/sledgeplus_components.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/sledgeplus_components.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/sledgeplus_components.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/sledgeplus_components.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/sledgeplus_components.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/Quick_Start.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/Quick_Start.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/Quick_Start.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/Quick_Start.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/Quick_Start.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/Quick_Start.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/doc-view-setting.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-view-setting.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-view-setting.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/doc-view-setting.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-view-setting.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-view-setting.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/doc-video.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-video.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-video.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/doc-video.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-video.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-video.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/doc-sizing.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-sizing.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-sizing.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/doc-sizing.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-sizing.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-sizing.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/doc-sitemap.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-sitemap.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-sitemap.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/doc-sitemap.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-sitemap.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-sitemap.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/doc-publish.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-publish.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-publish.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/doc-publish.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-publish.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-publish.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/doc-page-types.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-page-types.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-page-types.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/doc-page-types.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-page-types.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-page-types.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/doc-page-settings.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-page-settings.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-page-settings.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/doc-page-settings.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-page-settings.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-page-settings.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/doc-map.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-map.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-map.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/doc-map.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-map.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-map.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/doc-languages.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-languages.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-languages.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/doc-languages.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-languages.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-languages.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/doc.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/doc.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc.html" />
+</url>
+</urlset>
