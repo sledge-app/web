@@ -1278,7 +1278,9 @@ div.sg-fmark-section-txt {
 
 .sl-aa-audio-img {
   height: 200px;
-  /*adap*/
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-color: #999;
 }
 

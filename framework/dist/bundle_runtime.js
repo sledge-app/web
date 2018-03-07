@@ -118,13 +118,13 @@ __webpack_require__(35);
 __webpack_require__(36);
 __webpack_require__(37);
 __webpack_require__(38);
-__webpack_require__(41);
-__webpack_require__(42);
+__webpack_require__(39);
+__webpack_require__(40);
 
 // *** lib
-__webpack_require__(39);
+__webpack_require__(41);
 // require('./equalize')
-__webpack_require__(40);
+__webpack_require__(42);
 /*import init from './initRuntime'
 import equalize from './equalize'
 import orbitUtilities from '../components/orbit/orbit'*/
@@ -437,12 +437,28 @@ $(document).ready(function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
+// removed by extract-text-webpack-plugin
+
+
+/***/ }),
+/* 40 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+// removed by extract-text-webpack-plugin
+
+
+/***/ }),
+/* 41 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
 
 
 window.$sledge = {};
 
 /***/ }),
-/* 40 */
+/* 42 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -465,22 +481,6 @@ window.$sledge.refreshOrbit = function () {
     return window.Foundation.reInit('orbit');
   });
 };
-
-/***/ }),
-/* 41 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-// removed by extract-text-webpack-plugin
-
-
-/***/ }),
-/* 42 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-// removed by extract-text-webpack-plugin
-
 
 /***/ })
 /******/ ]);
