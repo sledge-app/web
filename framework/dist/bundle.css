@@ -1266,8 +1266,6 @@ div.sg-fmark-section-txt {
 
 .sl-sp-audio-cont .button {
   margin: 0 5px 0 0 !important;
-}.sl-aa-audio-cont {
-  background-color: #eee;
 }
 
 .sl-aa-audio-cont label {
@@ -1276,17 +1274,19 @@ div.sg-fmark-section-txt {
   overflow: hidden;
 }
 
-.sl-aa-audio-img {
+div.sl-aa-audio-img {
   height: 200px;
+  margin-top: 0.9375rem;
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
-  background-color: #999;
 }
 
-.sl-aa-audio-ctrl {
-  background-color: #ccc;
+div.sl-aa-audio-ctrl {
   text-align: center;
+  margin-top: 0.9375rem;
+  margin-bottom: 0.9375rem;
+  border-radius: 0.9375rem;
 }
 
 .sl-aa-audio-list {
