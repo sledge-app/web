@@ -1300,4 +1300,37 @@ div.sl-aa-audio-ctrl {
 .sl-aa-audio-ctrl button.button {
   margin-bottom: 0;
 }
+
+.sl-aa-audio-cont label {
+  width: 100%;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+div.sl-aa-audio-img {
+  height: 200px;
+  margin-top: 0.9375rem;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+div.sl-aa-audio-ctrl {
+  text-align: center;
+  margin-top: 0.9375rem;
+  margin-bottom: 0.9375rem;
+  border-radius: 0.9375rem;
+}
+
+.sl-aa-audio-list {
+  display: none;
+}
+
+.sl-aa-audio-buttons {
+  text-align: center;
+}
+
+.sl-aa-audio-ctrl button.button {
+  margin-bottom: 0;
+}
 /*# sourceMappingURL=bundle.css.map*/
