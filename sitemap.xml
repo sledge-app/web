@@ -56,6 +56,18 @@
 <xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/sledgeplus_components.html" />
 </url>
 <url>
+              <loc>http://sled-app.io/fr/release_note_103.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/release_note_103.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/release_note_103.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/release_note_103.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/release_note_103.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/release_note_103.html" />
+</url>
+<url>
               <loc>http://sled-app.io/fr/Quick_Start.html</loc>
               <priority>0.8</priority>
 <xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/Quick_Start.html" />
@@ -102,6 +114,18 @@
               <priority>0.8</priority>
 <xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-sizing.html" />
 <xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-sizing.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/fr/doc-sitemap-xml.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-sitemap-xml.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-sitemap-xml.html" />
+</url>
+<url>
+              <loc>http://sled-app.io/en/doc-sitemap-xml.html</loc>
+              <priority>0.8</priority>
+<xhtml:link rel="alternate" hreflang="fr" href="http://sled-app.io/fr/doc-sitemap-xml.html" />
+<xhtml:link rel="alternate" hreflang="en" href="http://sled-app.io/en/doc-sitemap-xml.html" />
 </url>
 <url>
               <loc>http://sled-app.io/fr/doc-sitemap.html</loc>
