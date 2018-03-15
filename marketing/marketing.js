@@ -79,8 +79,3 @@ document.addEventListener('click', e => {
   }
 })
 
-
-var head = window.parent.document.head
-var link = document.createElement('style')
-link.innerHTML = "html {font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;}" 
-head.appendChild(link)
