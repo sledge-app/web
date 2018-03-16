@@ -79,3 +79,12 @@ body.is-reveal-open {
 div.sg_txt p {
   margin: 0;
 }
+
+/* top bar */
+.top-bar.sg-menu-back-trans {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.top-bar-title span {
+  margin-left: 10px;
+}
