@@ -89,6 +89,11 @@ div.sg_txt p {
 
 .top-bar-title span {
   margin-left: 10px;
+}
+
+.sd-img-reveal-full {
+  width: 100%;
+  text-align: center;
 }.sg_feature {
   display: flex;
   flex-direction: row;
@@ -1606,5 +1611,119 @@ div.sd_ch_logo {
   .sg_progress .progress {
     width: 100%;
   }
+}.sg_image-link {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+
+.sg_image-link:hover {
+  filter: brightness(120%);
+}
+
+.sd-il-back {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-position: center;
+}
+
+.sd-il-med .sd-il-back {
+  top: 0.5rem;
+  bottom: 0.5rem;
+  right: 0.5rem;
+  left: 0.5rem;
+}
+
+.sd-il-lg .sd-il-back {
+  top: 1rem;
+  bottom: 1rem;
+  right: 1rem;
+  left: 1rem;
+}
+
+.sd-il-box {
+  z-index: 1;
+  text-align: center;
+  width: auto;
+  margin-bottom: 1rem !important;
+  pointer-events: none;
+}
+
+.sd-il-med .sd-il-box {
+  margin-bottom: 1.5rem !important;
+}
+
+.sd-il-lg .sd-il-box {
+  margin-bottom: 2rem !important;
+}
+
+.sd-il-box hr {
+  border-width: 3px;
+  width: 30%;
+  border-color: black;
+  margin: 0.4rem auto;
+}
+
+.sd-il-link {
+  font-size: 1rem;
+}
+
+.sd-il-title {
+  font-size: 2rem;
+}div.sd-ip-wrapper {
+  height: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  margin-top: 0.3rem;
+}
+
+.sd-ip-wrapper div.sd-ip-item {
+  position: relative;
+  cursor: pointer;
+  height: 200px;
+  background-image: url(../dist/img/f54ee9182b93175028440b25876110af.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  flex: 1;
+  min-width: 300px;
+  max-width: 400px;
+  margin: 0.3rem;
+}
+
+div.sd-ip-title {
+  display: none;
+  position: absolute;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  left: 0;
+  right: 0;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.sd-ip-wrapper div.sd-ip-item:hover div.sd-ip-title {
+  display: block;
+}
+
+.sd-ip-wrapper div.sd-ip-item:hover {
+  filter: brightness(120%);
+}
+
+.sd-ip-contain .sd-ip-wrapper div.sd-ip-item {
+  background-size: contain;
 }
 /*# sourceMappingURL=bundle.css.map*/

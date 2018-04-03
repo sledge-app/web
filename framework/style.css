@@ -88,3 +88,8 @@ div.sg_txt p {
 .top-bar-title span {
   margin-left: 10px;
 }
+
+.sd-img-reveal-full {
+  width: 100%;
+  text-align: center;
+}
