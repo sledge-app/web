@@ -16,6 +16,16 @@ h1 {
     padding: 10px 20px;
 }
 
+.new {
+    height: 25px;
+    line-height: 25px;
+    margin-top: 10px !important;
+    padding-left: 25px;
+    background-image: url(./images/icons8-new.png);
+	background-size: 22px;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
 .wrapper {
     position: absolute;
     top: 0;
