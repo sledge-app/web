@@ -126,12 +126,13 @@ __webpack_require__(43);
 __webpack_require__(44);
 __webpack_require__(45);
 __webpack_require__(46);
-__webpack_require__(49);
+__webpack_require__(47);
+__webpack_require__(48);
 
 // *** lib
-__webpack_require__(47);
+__webpack_require__(49);
 // require('./equalize')
-__webpack_require__(48);
+__webpack_require__(50);
 
 /*import init from './initRuntime'
 import equalize from './equalize'
@@ -509,12 +510,28 @@ $(document).ready(function () {
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
+// removed by extract-text-webpack-plugin
+
+
+/***/ }),
+/* 48 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+// removed by extract-text-webpack-plugin
+
+
+/***/ }),
+/* 49 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
 
 
 window.$sledge = {};
 
 /***/ }),
-/* 48 */
+/* 50 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -537,14 +554,6 @@ window.$sledge.refreshOrbit = function () {
     return window.Foundation.reInit('orbit');
   });
 };
-
-/***/ }),
-/* 49 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-// removed by extract-text-webpack-plugin
-
 
 /***/ })
 /******/ ]);

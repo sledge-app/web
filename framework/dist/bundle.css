@@ -1725,5 +1725,7 @@ div.sd-ip-title {
 
 .sd-ip-contain .sd-ip-wrapper div.sd-ip-item {
   background-size: contain;
+}.sg_custom {
+  min-height: 30px;
 }
 /*# sourceMappingURL=bundle.css.map*/
